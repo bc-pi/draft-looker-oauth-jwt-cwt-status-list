@@ -105,6 +105,7 @@ informative:
     author:
       org: "ISO/IEC JTC 1/SC 17"
     title: "ISO/IEC 18013-5:2021 ISO-compliant driving licence"
+    target: "https://github.com/lSOWG10/ISO-18013"
   smith2020let:
     author:
       - name: "Trevor Smith"
